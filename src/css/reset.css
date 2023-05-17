@@ -1,0 +1,12 @@
+/*Usado para zerar as formatações preexistentes.
+ * quer dizer que vai ser aplicada a todas as tags do html */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
